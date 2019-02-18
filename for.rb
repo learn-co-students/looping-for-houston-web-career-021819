@@ -1,7 +1,7 @@
 
 def using_for
-	checklist = 1..10
-	#your code here
+	charms_book = 1..10
+	for spell in charms_book
+		puts "Wingardium Leviosa"
+	end
 end
-
-
